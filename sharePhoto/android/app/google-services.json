@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062446746830",
+    "project_id": "photo-share-e1247",
+    "storage_bucket": "photo-share-e1247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062446746830:android:e7b3da012d7d60ae51549f",
+        "android_client_info": {
+          "package_name": "com.sharephoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062446746830-0ceq6fjjklisk2o25sdf7c87m45cnf1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxEqns7B0pKkHLL-lPirjiuftvSeThFI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062446746830-0ceq6fjjklisk2o25sdf7c87m45cnf1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
